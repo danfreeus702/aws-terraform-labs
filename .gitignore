@@ -1,0 +1,7 @@
+# Terraform working dirs & state — never commit these
+.terraform/
+*.tfstate
+*.tfstate.*
+*.zip
+.terraform.lock.hcl
+crash.log
