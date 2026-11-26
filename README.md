@@ -75,3 +75,11 @@ Set a billing alarm first.
 ---
 
 *Daniel Freeman — CCNA (Cisco, 2006). Building toward AWS Cloud Engineer.*
+
+## Support this work
+
+If this project helped you, consider supporting the journey. Contributions help cover lab hardware, hosting, and future open-source networking and security work.
+
+![PayPal QR code to support Daniel Freeman's open-source projects](assets/paypal-qr.png)
+
+Scan the code with your phone camera or the PayPal app. Thank you!
